@@ -1,8 +1,0 @@
-{
-    "host"     : "localhost",
-    "user"     : "W3_87118_Pratik",
-    "password" : "manager",
-    "database" : "institutemanagement",
-    "port"     : "4444",
-    "jwtKey": "mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm"
-}
